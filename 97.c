@@ -6,7 +6,7 @@ int n,remainder,reverse=0;
  
 int result;
  
-printf("\n enter the number:");
+printf(" enter the number:");
  
 scanf("%d",&n);
  
